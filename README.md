@@ -63,7 +63,7 @@ To view in more detail, click an image
 
 | Content Image | Style Image |
 |:-:|:-:|
-| [<img width="1000" alt="Texas A&M" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true) tamu | [<img width="1000" alt="The Scream" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true) The Scream |
+| [<img width="1000" alt="Texas A&M" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true) Texas A&M | [<img width="1000" alt="The Scream" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true) The Scream |
 
 | 50 epochs | 150 epochs | 250 epochs | 350 epochs |
 |:-:|:-:|:-:|:-:|
@@ -75,7 +75,7 @@ To view in more detail, click an image
 
 | Content Image | Style Image |
 |:-:|:-:|
-| [<img width="1000" alt="tamu" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true) tamu | [<img width="1000" alt="Starry Night" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true) Starry Night |
+| [<img width="1000" alt="tamu" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/tamu.png?raw=true) Texas A&M | [<img width="1000" alt="Starry Night" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true) Starry Night |
 
 | | | | |
 |:-:|:-:|:-:|:-:|
@@ -87,7 +87,7 @@ To view in more detail, click an image
 
 | Content Image | Style Image |
 |:-:|:-:|
-| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) giraffe | [<img width="1000" alt="The Shipwreck of the Minotaur" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/minotaur.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/minotaur.png?raw=true) The Shipwreck of the Minotaur |
+| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) Giraffe | [<img width="1000" alt="The Shipwreck of the Minotaur" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/minotaur.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/minotaur.png?raw=true) The Shipwreck of the Minotaur |
 
 | | | | |
 |:-:|:-:|:-:|:-:|
@@ -99,7 +99,7 @@ To view in more detail, click an image
 
 | Content Image | Style Image |
 |:-:|:-:|
-| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) giraffe | [<img width="1000" alt="The Scream" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true) The Scream |
+| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) Giraffe | [<img width="1000" alt="The Scream" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/scream.png?raw=true) The Scream |
 
 
 | 50 epochs | 150 epochs | 250 epochs | 350 epochs |
@@ -112,7 +112,7 @@ To view in more detail, click an image
 
 | Content Image | Style Image |
 |:-:|:-:|
-| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) giraffe | [<img width="1000" alt="Starry Night" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true) Starry Night |
+| [<img width="1000" alt="giraffe" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/giraffe.png?raw=true) Giraffe | [<img width="1000" alt="Starry Night" src="https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true">](https://github.com/BrianGlasheen/Image-style-transfer-CNN/blob/main/images/starry-night.png?raw=true) Starry Night |
 
 | | | | |
 |:-:|:-:|:-:|:-:|
